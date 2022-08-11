@@ -18,8 +18,12 @@ I code with :  👇
 </p>
 
 
+
 ### GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AutsadaWiriya&show_icons=true&theme=onedark)](https://github.com/AutsadaWiriya)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AutsadaWiriya&langs_count=10&theme=onedark)](https://github.com/AutsadaWiriya)
+
 
 
 ### GitHub Streak Stats
