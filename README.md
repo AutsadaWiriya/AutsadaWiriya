@@ -19,7 +19,8 @@ I code with :  👇
 
 
 ### GitHub Stats
-<a href="https://github.com/AutsadaWiriya" width="100%">
+<a href="https://github.com/AutsadaWiriya" width="100%" height="auto
+" >
   <img src="https://github-readme-stats.vercel.app/api?username=AutsadaWiriya&show_icons=true&theme=onedark&hide_border=true" width="48.5%" height="auto"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AutsadaWiriya&theme=onedark&layout=compact&hide_border=true" width="48.5%" height="auto"/>
 </a>
