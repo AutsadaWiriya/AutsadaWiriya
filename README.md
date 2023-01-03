@@ -1,7 +1,7 @@
 ![github-header-image](https://user-images.githubusercontent.com/110957364/183928873-50b2c293-99be-4abe-9fc7-3b303fabf434.jpg)
 
 
-[![Instagram](https://img.shields.io/badge/A_U_T_AUT-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/a_u_t_aut/)
+[![Instagram](https://img.shields.io/badge/A_U_T_AUT-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/autsaa_/)
 [![Facebook](https://img.shields.io/badge/Autsada_Wiriya-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Autsada.AiHUiGHT/)
 [![github](https://img.shields.io/badge/AUTSADAWIRIYA-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AutsadaWiriya)
 ![](https://komarev.com/ghpvc/?username=AutsadaWiriya&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
